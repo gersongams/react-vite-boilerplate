@@ -28,3 +28,9 @@ cd react-vite-boilerplate
 ```shell
 yarn install
 ```
+
+3. Run the app
+
+```shell
+yarn vite
+```
